@@ -1,17 +1,17 @@
 ## CHANGE this to the name of your plugin.
-name: SlimefunAddon
+name: Block Cutter
 
 ## CHANGE this to your username.
-author: CHANGEME
+author: VersionOmega
 
 ## CHANGE this to a meaninful but short description of your plugin.
-description: A generic Slimefun4-Addon
+description: Adds a machine to make miniature blocks
 
 ## CHANGE this to the path of the class that extends JavaPlugin.
-main: me.CHANGEME.slimefunaddon.ExampleAddon
+main: me.versionomega.slimefunblockcutter.SlimefunBlockCutter
 
 ## You can change this to link to your website or repository. You can also remove this line if you want to.
-website: https://github.com/TheBusyBiscuit/Slimefun4-Addon
+website: https://github.com/VersionOmega/Slimefun-Block-Cutter
 
 ## This is required and marks Slimefun as a plugin dependency.
 depend: [Slimefun]
